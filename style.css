@@ -49,8 +49,8 @@ body {
 }
 
 .dark-mode {
-  --background: linear-gradient(315deg, #340774 0%, #4b3e74 74%);
-  --b-background: #411d8f;
+  --background: linear-gradient(315deg, #340774 0%, #43848c 74%);
+  --b-background: #37a1a3;
   --b-accent: #ffffff;
   --s-button: #553da3;
   --name-color: #ffffff;
