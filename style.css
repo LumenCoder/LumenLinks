@@ -49,7 +49,7 @@ body {
 }
 
 .dark-mode {
-  --background: linear-gradient(315deg, #340774 0%, #43848c 74%);
+  --background: linear-gradient(315deg, ##000000 0%, #535254 74%);
   --b-background: #37a1a3;
   --b-accent: #ffffff;
   --s-button: #553da3;
