@@ -23,8 +23,8 @@
 
   --glass-buttons: #ffffff0c;
 
-  --b-background: #000000;
-  --background: linear-gradient(315deg, #000000 0%, #000000 74%);
+  --b-background: #171717;
+  --background: linear-gradient(315deg, #000000 0%, #171717 74%);
   /*  Speed of transition (Czech) */
   --rychlost: 0.5s;
   --target: _blank;
