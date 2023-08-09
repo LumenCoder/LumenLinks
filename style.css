@@ -14,7 +14,7 @@
     #285aeb 90%
   );
   --discord: #5865f2;
-  --twitch: #7134e4;
+  --github: #7134e4;
 
   --b-accent: #ffffff;
   --s-button: #4c4c4c;
@@ -292,7 +292,7 @@ input:checked + .slider:before {
   background: var(--discord);
 }
 .wrapper .button:nth-child(5) .icon::before {
-  background: var(--twitch);
+  background: var(--github);
 }
 
 .wrapper .button .icon i {
@@ -332,5 +332,5 @@ input:checked + .slider:before {
   color: var(--discord);
 }
 .wrapper .button:nth-child(5) span {
-  color: var(--twitch);
+  color: var(--github);
 }
