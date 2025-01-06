@@ -261,7 +261,7 @@ input:checked + .slider:before {
   content: "";
   /* overflow: hidden; */
   border-radius: 50px;
-  /* display: table-caption; */
+  /* display: table-caption so it can be enabled; */
   display: flex;
   height: 60px;
   width: 60px;
